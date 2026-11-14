@@ -1,0 +1,6 @@
+{
+  "name": "TavernFormat｜SillyTavern 檔案格式轉換工坊",
+  "description": "專為 SillyTavern 打造的純前端離線格式轉換工具，支援 PNG/JSON/CHARX 角色卡、世界書（World Info / CSV）與聊天紀錄（JSONL / TXT / Markdown / HTML）雙向互轉。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
